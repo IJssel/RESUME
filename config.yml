@@ -1,4 +1,4 @@
 deploy:
   type:git
   repository:https://github.com/IJssel/RESUME.git
-  brach:gh-pages
+  branch:gh-pages
